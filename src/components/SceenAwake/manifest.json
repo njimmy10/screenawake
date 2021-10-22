@@ -1,0 +1,15 @@
+{
+  "displayName": "Sceen Awake",
+  "defaultWidth": 160,
+  "defaultHeight": 24,
+  "components": "./index.js",
+  "icon": "./example-thumbnail.png",
+  "props": [
+    {
+      "name":"activateComponent",
+      "displayName":"Activate Component",
+      "type":"boolean",
+      "default": true
+    }
+  ]
+}
